@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/zhangle/Desktop/react/app/node_modules/react-native/Libraries/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec-generated.mm \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Target\ Support\ Files/FBReactNativeSpec/FBReactNativeSpec-prefix.pch \
+  /Users/zhangle/Desktop/react/app/node_modules/react-native/Libraries/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Headers/Public/RCTRequired/RCTRequired/RCTRequired.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTConvertHelpers.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Folly/folly/Optional.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Folly/folly/Portability.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Folly/folly/CPortability.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Folly/folly/Traits.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Folly/folly/Utility.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTTypedModuleConstants.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Headers/Public/ReactCommon/ReactCommon/RCTTurboModule.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Headers/Public/ReactCommon/ReactCommon/JSCallInvoker.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Headers/Public/ReactCommon/ReactCommon/TurboModule.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/zhangle/Desktop/react/app/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h
